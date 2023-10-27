@@ -13,4 +13,3 @@ elif [[ $1x == '-ex' ]]; then
 elif [[ $1x == '-kx' ]]; then
     podman kill influxdb_v1
 fi
-# influx write -b upa-bucket -f /data/air_quality_formatted.csv --header "#datatype measurement,double,double,double,ignore,tag,string,tag,ignore,ignore,dateTime:2006-01-02 15:04:05-07:00,ignore
