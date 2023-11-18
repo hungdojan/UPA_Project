@@ -6,6 +6,3 @@ build*/
 __pycache__/
 .vscode/
 .cache/
-
-Part2/spotify-2023-categoric.csv
-Part2/spotify-2023-numeric.csv
